@@ -1,0 +1,19 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+USER    username :test@gmail.com
+        password :Test@12345
+
+
+
+ADMIN   username:admin
+        password:Test@12345 
+
+Database   carrental
+
+
+
+If you loved the project leave a comment and incase of any errors or need any modifications done, kindly contact me at instagram @v.munga_
+
+mungaivincentwachira@gmail.com
+icons used were from flaticons.com
